@@ -39,8 +39,8 @@ O projeto utiliza apenas a biblioteca nativa `socket` do Python. **Nenhuma depen
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/mini-kahoot-terminal.git
-   cd mini-kahoot-terminal
+   git clone https://github.com/Vinny-TS/TCP_kahoot.git
+   cd TCP_kahoot
    ```
 
 2. Abra um terminal e inicie o **Servidor**:
