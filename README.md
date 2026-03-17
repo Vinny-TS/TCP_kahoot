@@ -4,7 +4,7 @@
 ![Sockets](https://img.shields.io/badge/Sockets-TCP-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 
-Um jogo de perguntas e respostas estilo "Kahoot" executado inteiramente via terminal. Este projeto foi desenvolvido para demonstrar os conceitos de comunicação em rede utilizando a arquitetura Cliente-Servidor com Sockets TCP em Python.
+Um jogo de perguntas e respostas estilo "Kahoot" executado inteiramente via terminal. Este projeto foi desenvolvido para demonstrar os conceitos de comunicação em rede utilizando a arquitetura Cliente-Servidor com Sockets TCP em Python. Desenvolvido pelos alunos **Eduardo Pereira Valias** e **Vinícius Telles e Silva**.
 
 ## 📌 Sobre o Projeto
 
